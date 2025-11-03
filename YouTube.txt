@@ -1,19 +1,19 @@
 TITLE
-🎧 | [MUSIC TITLE HERE]
+🎧 | Serene Frequencies 9.6
 
 
 
 
 DESCRIPTION
-[DESCRIPTION HERE THAT CAN BE POSTED ON SOCIAL MEDIA]
+Now that everything is getting better, let's create a few more varities for video production uses. Here's another instrumental ambient chillwave soundtrack.
 
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #chillwave #instrumental #ambient
 
 
 § COLLECTIONS
 ━━━━━━━━━━━━
-Album Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
-Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
+Album Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjcET4JnaUPs8N53WUC41kR
+Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAi6ksvBnEv6YIMeGpKIGRsf
 
 
 § METADATA
@@ -21,7 +21,7 @@ Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
 Music made in: https://www.udio.com/
 Project by: (Holloway) Chew, Kean Ho
 Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Repository: [REPOSITORY_HERE]
+Repository: https://github.com/ChewKeanHo/soundtracks-serene-frequencies-9p6
 
 
 § FAQ
@@ -64,4 +64,4 @@ I just see A.I. is the next step forward and I want it to augment me; not resist
 
 
 TAGS
-electronicmusic, soundtrack
+electronicmusic, chillwave, ambient, downtempo, indietronica, chillout, atmospheric, instrumental, warm, soothing, calm

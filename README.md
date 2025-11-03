@@ -1,19 +1,25 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Serene Frequencies 9.6 | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Now that everything is getting better, let's create a few more varities for
+video production uses. Here's another instrumental ambient chillwave soundtrack.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #chillwave #instrumental #ambient
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Serene-Frequencies-9-point-6.mp3
+  Size: 6701056         Blocks: 13088      IO Block: 4096   regular file
+Access: 2025-11-03 14:33:07.328632742 +0800
+Modify: 2025-11-03 14:33:09.228641285 +0800
+Change: 2025-11-03 14:33:09.228641285 +0800
+ Birth: 2025-04-28 10:30:46.523818097 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-03
+On YouTube since : 2025-08-24
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=tsKhWDSIoIE)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +52,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Serene Frequencies 9.6
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-serene-frequencies-9p6
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
@@ -60,7 +66,7 @@ NGO exception grant from the artist. Please process them as such.
 
 
 
-### Listening - Personal
+
 
 > This targets customers wanted to use the music just for listening without
 > broadcasting to any other 3rd-party with non-monetary intention; such as but
